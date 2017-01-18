@@ -14,8 +14,8 @@ TensorFlow Performance comparison between CPU vs GPU
  
  based on : https://github.com/aymericdamien/TensorFlow-Examples/
 #### Result
-* Single CPU computation time: 0:07:06.079494
-* Single GPU computation time: 0:00:07.252271
+* Single CPU computation time: 0:06:43.892862
+* Single GPU computation time: 0:00:07.039164
 
 ### tf_cmp_CNN.ipynb
 Simple CNN example using Tensorflow
